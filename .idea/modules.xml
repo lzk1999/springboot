@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringBoot.iml" filepath="$PROJECT_DIR$/.idea/SpringBoot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo+zookeeper/consumer_service/consumer_service.iml" filepath="$PROJECT_DIR$/dubbo+zookeeper/consumer_service/consumer_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_08_shiro/hello_shiro/hello_shiro.iml" filepath="$PROJECT_DIR$/springboot_08_shiro/hello_shiro/hello_shiro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo+zookeeper/provider_service/provider_service.iml" filepath="$PROJECT_DIR$/dubbo+zookeeper/provider_service/provider_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis_02_springboot/redis_02_springboot.iml" filepath="$PROJECT_DIR$/redis_02_springboot/redis_02_springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_08_shiro/shiro_springboot/shiro_springboot.iml" filepath="$PROJECT_DIR$/springboot_08_shiro/shiro_springboot/shiro_springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_01_helloworld/springboot_01_helloworld.iml" filepath="$PROJECT_DIR$/springboot_01_helloworld/springboot_01_helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_02_config/springboot_02_config.iml" filepath="$PROJECT_DIR$/springboot_02_config/springboot_02_config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_03_web/springboot_03_web.iml" filepath="$PROJECT_DIR$/springboot_03_web/springboot_03_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_04_data/springboot_04_data.iml" filepath="$PROJECT_DIR$/springboot_04_data/springboot_04_data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_05_mybatis/springboot_05_mybatis.iml" filepath="$PROJECT_DIR$/springboot_05_mybatis/springboot_05_mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_06_security/springboot_06_security.iml" filepath="$PROJECT_DIR$/springboot_06_security/springboot_06_security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_08_shiro/springboot_08_shiro.iml" filepath="$PROJECT_DIR$/springboot_08_shiro/springboot_08_shiro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_09_test/springboot_09_test.iml" filepath="$PROJECT_DIR$/springboot_09_test/springboot_09_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud/springcloud.iml" filepath="$PROJECT_DIR$/springcloud/springcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud/springcloud-config-client-3355/springcloud-config-client-3355.iml" filepath="$PROJECT_DIR$/springcloud/springcloud-config-client-3355/springcloud-config-client-3355.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud/springcloud-config-eureka-7001/springcloud-config-eureka-7001.iml" filepath="$PROJECT_DIR$/springcloud/springcloud-config-eureka-7001/springcloud-config-eureka-7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud/springcloud-config-server-3344/springcloud-config-server-3344.iml" filepath="$PROJECT_DIR$/springcloud/springcloud-config-server-3344/springcloud-config-server-3344.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud/springcloud-provider-dept-8001/springcloud-provider-dept-8001.iml" filepath="$PROJECT_DIR$/springcloud/springcloud-provider-dept-8001/springcloud-provider-dept-8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud/springcloud-provider-dept-8003/springcloud-provider-dept-8003.iml" filepath="$PROJECT_DIR$/springcloud/springcloud-provider-dept-8003/springcloud-provider-dept-8003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud/springcloud_api/springcloud_api.iml" filepath="$PROJECT_DIR$/springcloud/springcloud_api/springcloud_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud/springcloud_consumer_dept_80/springcloud_consumer_dept_80.iml" filepath="$PROJECT_DIR$/springcloud/springcloud_consumer_dept_80/springcloud_consumer_dept_80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud/springcloud_eureka_7001/springcloud_eureka_7001.iml" filepath="$PROJECT_DIR$/springcloud/springcloud_eureka_7001/springcloud_eureka_7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud/springcloud_eureka_7002/springcloud_eureka_7002.iml" filepath="$PROJECT_DIR$/springcloud/springcloud_eureka_7002/springcloud_eureka_7002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud/springcloud_eureka_7003/springcloud_eureka_7003.iml" filepath="$PROJECT_DIR$/springcloud/springcloud_eureka_7003/springcloud_eureka_7003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tmp/springcloud_provider_dept_8001/springcloud_provider_dept_8001.iml" filepath="$PROJECT_DIR$/tmp/springcloud_provider_dept_8001/springcloud_provider_dept_8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tmp/springcloud-provider-dept-8002/springcloud_provider_dept_8001 (1).iml" filepath="$PROJECT_DIR$/tmp/springcloud-provider-dept-8002/springcloud_provider_dept_8001 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/tmp/springcloud-provider-dept-8003/springcloud_provider_dept_8001 (2).iml" filepath="$PROJECT_DIR$/tmp/springcloud-provider-dept-8003/springcloud_provider_dept_8001 (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/swagger-demo/swagger-demo.iml" filepath="$PROJECT_DIR$/swagger-demo/swagger-demo.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,36 @@
+#优先级最高
+server:
+  port: 8081
+
+#普通key-value
+  name: qinjiang
+
+#对象
+student:
+  name: huang
+  age: 22
+
+#行内写法
+students: {name: huang,age: 22}
+
+#数组
+pets:
+  - cat
+  - dog
+  - pig
+
+petss: [cat,dog,pig]
+
+person:
+  name: huang
+  age: 3
+  happy: false
+  birth: 2019/11/02
+  maps: {k1: v1,k2: v2}
+  list:
+    - code
+    - music
+    - girl
+  dog:
+    name: 旺财
+    age: 3

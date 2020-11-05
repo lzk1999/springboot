@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f753ec06-6786-4b49-b5ac-8c6f1533b6a1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aNR2eb78yyX4KopGxLQ2R7YYJX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\IdeaProjects\SpringBoot\springboot_08_shiro\shiro_springboot\src\main\resources" />
+      <recent name="F:\IdeaProjects\SpringBoot\springboot_08_shiro\shiro_springboot\src\main\java\com\huang" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ShiroSpringbootApplication">
+    <configuration name="Quickstart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Quickstart" />
+      <module name="hello_shiro" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShiroSpringbootApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shiro_springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.huang" />
+      <option name="MAIN_CLASS_NAME" value="com.huang.ShiroSpringbootApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShiroSpringbootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shiro_springboot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.huang.ShiroSpringbootApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ShiroSpringbootApplicationTests" />
+        <item itemvalue="Application.Quickstart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f753ec06-6786-4b49-b5ac-8c6f1533b6a1" name="Default Changelist" comment="" />
+      <created>1586573859076</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586573859076</updated>
+      <workItem from="1586573864496" duration="651000" />
+      <workItem from="1586574600377" duration="10830000" />
+      <workItem from="1586593909338" duration="7891000" />
+      <workItem from="1586660967730" duration="1405000" />
+      <workItem from="1588162094163" duration="103000" />
+      <workItem from="1588162542229" duration="2250000" />
+      <workItem from="1588335178746" duration="737000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="710" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586594635439">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="710" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586594635439" />
+    <state x="1279" y="358" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586584735860">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1279" y="358" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1586584735860" />
+    <state x="1275" y="252" key="#com.intellij.ide.util.MemberChooser" timestamp="1586594827465">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1275" y="252" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1586594827465" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1588211590776">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1588211590776" />
+    <state width="1877" height="275" key="GridCell.Tab.0.bottom" timestamp="1588211592422">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588211592422" />
+    <state width="1877" height="275" key="GridCell.Tab.0.center" timestamp="1588211592422">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="275" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588211592422" />
+    <state width="1877" height="275" key="GridCell.Tab.0.left" timestamp="1588211592422">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="275" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588211592422" />
+    <state width="1877" height="275" key="GridCell.Tab.0.right" timestamp="1588211592422">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="275" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588211592422" />
+    <state width="1877" height="275" key="GridCell.Tab.1.bottom" timestamp="1588211592422">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="275" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588211592422" />
+    <state width="1877" height="275" key="GridCell.Tab.1.center" timestamp="1588211592422">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="275" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588211592422" />
+    <state width="1877" height="275" key="GridCell.Tab.1.left" timestamp="1588211592422">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="275" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588211592422" />
+    <state width="1877" height="275" key="GridCell.Tab.1.right" timestamp="1588211592422">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="275" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588211592422" />
+    <state width="220" height="477" key="HiddenNamespacesPopup" timestamp="1586594618591">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="220" height="477" key="HiddenNamespacesPopup/0.0.1920.1040@0.0.1920.1040" timestamp="1586594618591" />
+    <state x="922" y="205" key="SettingsEditor" timestamp="1586574522520">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="922" y="205" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586574522520" />
+    <state x="1281" y="387" key="com.intellij.ide.util.TipDialog" timestamp="1586661945011">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1281" y="387" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586661945011" />
+    <state x="606" y="252" key="new project wizard" timestamp="1586662757037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="606" y="252" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1586662757037" />
+  </component>
+</project>

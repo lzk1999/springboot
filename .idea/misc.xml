@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/springboot_01_helloworld/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_02_config/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_03_web/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_04_data/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_05_mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_06_security/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_08_shiro/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_09_test/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud/pom.xml" />
+        <option value="$PROJECT_DIR$/swagger-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/tmp/springcloud-provider-dept-8002/pom.xml" />
+        <option value="$PROJECT_DIR$/tmp/springcloud-provider-dept-8003/pom.xml" />
+        <option value="$PROJECT_DIR$/tmp/springcloud_provider_dept_8001/pom.xml" />
+        <option value="$PROJECT_DIR$/redis_02_springboot/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo+zookeeper/consumer_service/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo+zookeeper/provider_service/pom.xml" />
+        <option value="$PROJECT_DIR$/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_08_shiro/shiro_springboot/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

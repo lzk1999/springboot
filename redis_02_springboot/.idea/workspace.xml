@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db83bb82-44d3-4859-9518-225fd4dd8123" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aRRclQ6t6jzeXa4t1PZSmUdBj3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="JUnit.Redis02SpringbootApplicationTests">
+    <configuration name="Redis02SpringbootApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="redis_02_springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.huang" />
+      <option name="MAIN_CLASS_NAME" value="com.huang.Redis02SpringbootApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Redis02SpringbootApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="redis_02_springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.huang" />
+      <option name="MAIN_CLASS_NAME" value="com.huang.Redis02SpringbootApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Redis02SpringbootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="redis_02_springboot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.huang.Redis02SpringbootApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Redis02SpringbootApplicationTests" />
+        <item itemvalue="JUnit.Redis02SpringbootApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db83bb82-44d3-4859-9518-225fd4dd8123" name="Default Changelist" comment="" />
+      <created>1586696501703</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586696501703</updated>
+      <workItem from="1586696516905" duration="1583000" />
+      <workItem from="1586738666474" duration="1173000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="260" key="GridCell.Tab.0.bottom" timestamp="1586760490718">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1398" height="260" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586760490718" />
+    <state width="1398" height="260" key="GridCell.Tab.0.center" timestamp="1586760490718">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1398" height="260" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586760490718" />
+    <state width="1398" height="260" key="GridCell.Tab.0.left" timestamp="1586760490718">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1398" height="260" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586760490718" />
+    <state width="1398" height="260" key="GridCell.Tab.0.right" timestamp="1586760490718">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1398" height="260" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586760490718" />
+    <state width="1398" height="260" key="GridCell.Tab.1.bottom" timestamp="1586698103234">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1398" height="260" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586698103234" />
+    <state width="1398" height="260" key="GridCell.Tab.1.center" timestamp="1586698103234">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1398" height="260" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586698103234" />
+    <state width="1398" height="260" key="GridCell.Tab.1.left" timestamp="1586698103234">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1398" height="260" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586698103234" />
+    <state width="1398" height="260" key="GridCell.Tab.1.right" timestamp="1586698103234">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1398" height="260" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586698103234" />
+    <state x="1071" y="357" key="com.intellij.ide.util.TipDialog" timestamp="1586738668842">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1071" y="357" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586738668842" />
+    <state x="669" y="323" key="new project wizard" timestamp="1586760488831">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="669" y="323" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1586760488831" />
+  </component>
+</project>

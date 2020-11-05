@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springcloud-config-server-3344" />
+        <module name="springcloud-config-client-3355" />
+        <module name="demo" />
+        <module name="springcloud-config-eureka-7001" />
+        <module name="springboot_05_mybatis" />
+        <module name="springcloud_consumer_dept_80" />
+        <module name="springboot_04_data" />
+        <module name="provider_service" />
+        <module name="shiro_springboot" />
+        <module name="springboot_02_config" />
+        <module name="springboot_03_web" />
+        <module name="springcloud_api" />
+        <module name="springcloud_provider_dept_8001" />
+        <module name="springcloud-provider-dept-8001" />
+        <module name="springcloud_eureka_7003" />
+        <module name="springcloud_eureka_7002" />
+        <module name="springcloud_eureka_7001" />
+        <module name="springboot_06_security" />
+        <module name="swagger-demo" />
+        <module name="redis_02_springboot" />
+        <module name="springboot_01_helloworld" />
+        <module name="springcloud_provider_dept_8001 (1)" />
+        <module name="hello_shiro" />
+        <module name="springcloud_provider_dept_8001 (2)" />
+        <module name="springcloud-provider-dept-8003" />
+        <module name="springboot_09_test" />
+        <module name="consumer_service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="consumer_service" target="1.8" />
+      <module name="demo" target="1.8" />
+      <module name="hello_shiro" target="1.5" />
+      <module name="provider_service" target="1.8" />
+      <module name="redis_02_springboot" target="1.8" />
+      <module name="shiro_springboot" target="1.8" />
+      <module name="springboot_01_helloworld" target="1.8" />
+      <module name="springboot_02_config" target="1.8" />
+      <module name="springboot_03_web" target="1.8" />
+      <module name="springboot_04_data" target="1.8" />
+      <module name="springboot_05_mybatis" target="1.8" />
+      <module name="springboot_06_security" target="1.8" />
+      <module name="springboot_08_shiro" target="1.5" />
+      <module name="springboot_09_test" target="1.8" />
+      <module name="springcloud" target="1.5" />
+      <module name="springcloud-config-client-3355" target="1.5" />
+      <module name="springcloud-config-eureka-7001" target="1.5" />
+      <module name="springcloud-config-server-3344" target="1.5" />
+      <module name="springcloud-provider-dept-8001" target="1.5" />
+      <module name="springcloud-provider-dept-8003" target="1.5" />
+      <module name="springcloud_api" target="1.5" />
+      <module name="springcloud_consumer_dept_80" target="7" />
+      <module name="springcloud_eureka_7001" target="1.5" />
+      <module name="springcloud_eureka_7002" target="1.5" />
+      <module name="springcloud_eureka_7003" target="1.5" />
+      <module name="springcloud_provider_dept_8001" target="1.5" />
+      <module name="springcloud_provider_dept_8001 (1)" target="1.5" />
+      <module name="springcloud_provider_dept_8001 (2)" target="1.5" />
+      <module name="swagger-demo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="consumer_service" options="-parameters" />
+      <module name="demo" options="-parameters" />
+      <module name="provider_service" options="-parameters" />
+      <module name="redis_02_springboot" options="-parameters" />
+      <module name="shiro_springboot" options="-parameters" />
+      <module name="springboot_01_helloworld" options="-parameters" />
+      <module name="springboot_02_config" options="-parameters" />
+      <module name="springboot_03_web" options="-parameters" />
+      <module name="springboot_04_data" options="-parameters" />
+      <module name="springboot_05_mybatis" options="-parameters" />
+      <module name="springboot_06_security" options="-parameters" />
+      <module name="springboot_09_test" options="-parameters" />
+      <module name="swagger-demo" options="-parameters" />
+    </option>
+  </component>
+</project>
